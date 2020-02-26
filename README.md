@@ -1,6 +1,6 @@
 ## Business Card Wallet
 
-Made by a team of five individuals participating in Real Skills Education's STEM Leaders Program.
+Made by a team of five individuals participating in Real Skills Education's STEM Leaders Program. Expo host at https://expo.io/@rseteam2/test2
 
 ### Description
 
